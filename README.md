@@ -27,7 +27,7 @@ Sou entusiasta de novas tecnologias e estou sempre em busca de aprimorar a exper
   <a href="https://www.linkedin.com/in/otaviovieiraa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/otaviovieiraa" target="_blank">
+  <a href="https://www.instagram.com/vieiraaxx._/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="mailto:otaviodeolivieira@gmail.com">
