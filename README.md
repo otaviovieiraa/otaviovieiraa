@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Otavio Vieira</h1>
+<h1 align="center">Hello, I am Otávio Vieira</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=blueviolet" alt="profile views" />
